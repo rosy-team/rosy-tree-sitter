@@ -1,5 +1,5 @@
 // Auto-generated from rosy.pest by build.rs — do not edit!
-// Regenerate with: cargo build -p rosy
+// Regenerate with: cargo build -p rosy-compiler
 
 /// @ts-nocheck
 module.exports = grammar({

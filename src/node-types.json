@@ -619,6 +619,10 @@
     "named": false
   },
   {
+    "type": "PROOT",
+    "named": false
+  },
+  {
     "type": "PWTIME",
     "named": false
   },
@@ -1276,6 +1280,10 @@
   },
   {
     "type": "procedure",
+    "named": false
+  },
+  {
+    "type": "proot",
     "named": false
   },
   {

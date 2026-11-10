@@ -290,6 +290,8 @@
 "polval" @keyword
 "PROCEDURE" @keyword
 "procedure" @keyword
+"PROOT" @keyword
+"proot" @keyword
 "PWTIME" @keyword
 "pwtime" @keyword
 "QUIT" @keyword

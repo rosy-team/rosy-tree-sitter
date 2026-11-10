@@ -111,6 +111,7 @@ module.exports = grammar({
       'PNPRO', 'pnpro',
       'POLVAL', 'polval',
       'PROCEDURE', 'procedure',
+      'PROOT', 'proot',
       'PWTIME', 'pwtime',
       'QUIT', 'quit',
       'READ', 'read',

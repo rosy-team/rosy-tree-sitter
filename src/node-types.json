@@ -239,6 +239,10 @@
     "named": false
   },
   {
+    "type": "COULSUM",
+    "named": false
+  },
+  {
     "type": "CPOLVAL",
     "named": false
   },
@@ -428,6 +432,10 @@
   },
   {
     "type": "EXP",
+    "named": false
+  },
+  {
+    "type": "EXTERN",
     "named": false
   },
   {
@@ -623,11 +631,107 @@
     "named": false
   },
   {
+    "type": "PSALL",
+    "named": false
+  },
+  {
+    "type": "PSBOUNDS",
+    "named": false
+  },
+  {
+    "type": "PSBUILD",
+    "named": false
+  },
+  {
+    "type": "PSCOST",
+    "named": false
+  },
+  {
+    "type": "PSDOWN",
+    "named": false
+  },
+  {
+    "type": "PSGET",
+    "named": false
+  },
+  {
+    "type": "PSHALO",
+    "named": false
+  },
+  {
+    "type": "PSLEAFLOC",
+    "named": false
+  },
+  {
+    "type": "PSLISTS",
+    "named": false
+  },
+  {
+    "type": "PSLOAD",
+    "named": false
+  },
+  {
+    "type": "PSLSYNC",
+    "named": false
+  },
+  {
+    "type": "PSMAX",
+    "named": false
+  },
+  {
+    "type": "PSMSYNC",
+    "named": false
+  },
+  {
+    "type": "PSPOS",
+    "named": false
+  },
+  {
+    "type": "PSPREV",
+    "named": false
+  },
+  {
+    "type": "PSPUT",
+    "named": false
+  },
+  {
+    "type": "PSREMOVE",
+    "named": false
+  },
+  {
+    "type": "PSSCALED",
+    "named": false
+  },
+  {
+    "type": "PSSIZES",
+    "named": false
+  },
+  {
+    "type": "PSSLICE",
+    "named": false
+  },
+  {
+    "type": "PSSUM",
+    "named": false
+  },
+  {
+    "type": "PSUP",
+    "named": false
+  },
+  {
+    "type": "PSWRITE",
+    "named": false
+  },
+  {
     "type": "PWTIME",
     "named": false
   },
   {
     "type": "QUIT",
+    "named": false
+  },
+  {
+    "type": "RANSEED",
     "named": false
   },
   {
@@ -895,6 +999,10 @@
     "named": false
   },
   {
+    "type": "coulsum",
+    "named": false
+  },
+  {
     "type": "cpolval",
     "named": false
   },
@@ -1084,6 +1192,10 @@
   },
   {
     "type": "exp",
+    "named": false
+  },
+  {
+    "type": "extern",
     "named": false
   },
   {
@@ -1287,11 +1399,107 @@
     "named": false
   },
   {
+    "type": "psall",
+    "named": false
+  },
+  {
+    "type": "psbounds",
+    "named": false
+  },
+  {
+    "type": "psbuild",
+    "named": false
+  },
+  {
+    "type": "pscost",
+    "named": false
+  },
+  {
+    "type": "psdown",
+    "named": false
+  },
+  {
+    "type": "psget",
+    "named": false
+  },
+  {
+    "type": "pshalo",
+    "named": false
+  },
+  {
+    "type": "psleafloc",
+    "named": false
+  },
+  {
+    "type": "pslists",
+    "named": false
+  },
+  {
+    "type": "psload",
+    "named": false
+  },
+  {
+    "type": "pslsync",
+    "named": false
+  },
+  {
+    "type": "psmax",
+    "named": false
+  },
+  {
+    "type": "psmsync",
+    "named": false
+  },
+  {
+    "type": "pspos",
+    "named": false
+  },
+  {
+    "type": "psprev",
+    "named": false
+  },
+  {
+    "type": "psput",
+    "named": false
+  },
+  {
+    "type": "psremove",
+    "named": false
+  },
+  {
+    "type": "psscaled",
+    "named": false
+  },
+  {
+    "type": "pssizes",
+    "named": false
+  },
+  {
+    "type": "psslice",
+    "named": false
+  },
+  {
+    "type": "pssum",
+    "named": false
+  },
+  {
+    "type": "psup",
+    "named": false
+  },
+  {
+    "type": "pswrite",
+    "named": false
+  },
+  {
     "type": "pwtime",
     "named": false
   },
   {
     "type": "quit",
+    "named": false
+  },
+  {
+    "type": "ranseed",
     "named": false
   },
   {

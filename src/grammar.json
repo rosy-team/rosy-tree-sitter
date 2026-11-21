@@ -173,6 +173,14 @@
         },
         {
           "type": "STRING",
+          "value": "COULSUM"
+        },
+        {
+          "type": "STRING",
+          "value": "coulsum"
+        },
+        {
+          "type": "STRING",
           "value": "CPOLVAL"
         },
         {
@@ -533,6 +541,14 @@
         },
         {
           "type": "STRING",
+          "value": "EXTERN"
+        },
+        {
+          "type": "STRING",
+          "value": "extern"
+        },
+        {
+          "type": "STRING",
           "value": "FIT"
         },
         {
@@ -765,6 +781,190 @@
         },
         {
           "type": "STRING",
+          "value": "PSALL"
+        },
+        {
+          "type": "STRING",
+          "value": "psall"
+        },
+        {
+          "type": "STRING",
+          "value": "PSBOUNDS"
+        },
+        {
+          "type": "STRING",
+          "value": "psbounds"
+        },
+        {
+          "type": "STRING",
+          "value": "PSBUILD"
+        },
+        {
+          "type": "STRING",
+          "value": "psbuild"
+        },
+        {
+          "type": "STRING",
+          "value": "PSCOST"
+        },
+        {
+          "type": "STRING",
+          "value": "pscost"
+        },
+        {
+          "type": "STRING",
+          "value": "PSDOWN"
+        },
+        {
+          "type": "STRING",
+          "value": "psdown"
+        },
+        {
+          "type": "STRING",
+          "value": "PSGET"
+        },
+        {
+          "type": "STRING",
+          "value": "psget"
+        },
+        {
+          "type": "STRING",
+          "value": "PSHALO"
+        },
+        {
+          "type": "STRING",
+          "value": "pshalo"
+        },
+        {
+          "type": "STRING",
+          "value": "PSLEAFLOC"
+        },
+        {
+          "type": "STRING",
+          "value": "psleafloc"
+        },
+        {
+          "type": "STRING",
+          "value": "PSLISTS"
+        },
+        {
+          "type": "STRING",
+          "value": "pslists"
+        },
+        {
+          "type": "STRING",
+          "value": "PSLOAD"
+        },
+        {
+          "type": "STRING",
+          "value": "psload"
+        },
+        {
+          "type": "STRING",
+          "value": "PSLSYNC"
+        },
+        {
+          "type": "STRING",
+          "value": "pslsync"
+        },
+        {
+          "type": "STRING",
+          "value": "PSMAX"
+        },
+        {
+          "type": "STRING",
+          "value": "psmax"
+        },
+        {
+          "type": "STRING",
+          "value": "PSMSYNC"
+        },
+        {
+          "type": "STRING",
+          "value": "psmsync"
+        },
+        {
+          "type": "STRING",
+          "value": "PSPOS"
+        },
+        {
+          "type": "STRING",
+          "value": "pspos"
+        },
+        {
+          "type": "STRING",
+          "value": "PSPREV"
+        },
+        {
+          "type": "STRING",
+          "value": "psprev"
+        },
+        {
+          "type": "STRING",
+          "value": "PSPUT"
+        },
+        {
+          "type": "STRING",
+          "value": "psput"
+        },
+        {
+          "type": "STRING",
+          "value": "PSREMOVE"
+        },
+        {
+          "type": "STRING",
+          "value": "psremove"
+        },
+        {
+          "type": "STRING",
+          "value": "PSSCALED"
+        },
+        {
+          "type": "STRING",
+          "value": "psscaled"
+        },
+        {
+          "type": "STRING",
+          "value": "PSSIZES"
+        },
+        {
+          "type": "STRING",
+          "value": "pssizes"
+        },
+        {
+          "type": "STRING",
+          "value": "PSSLICE"
+        },
+        {
+          "type": "STRING",
+          "value": "psslice"
+        },
+        {
+          "type": "STRING",
+          "value": "PSSUM"
+        },
+        {
+          "type": "STRING",
+          "value": "pssum"
+        },
+        {
+          "type": "STRING",
+          "value": "PSUP"
+        },
+        {
+          "type": "STRING",
+          "value": "psup"
+        },
+        {
+          "type": "STRING",
+          "value": "PSWRITE"
+        },
+        {
+          "type": "STRING",
+          "value": "pswrite"
+        },
+        {
+          "type": "STRING",
           "value": "PWTIME"
         },
         {
@@ -778,6 +978,14 @@
         {
           "type": "STRING",
           "value": "quit"
+        },
+        {
+          "type": "STRING",
+          "value": "RANSEED"
+        },
+        {
+          "type": "STRING",
+          "value": "ranseed"
         },
         {
           "type": "STRING",
